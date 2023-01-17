@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuestudio"]=self["webpackChunkvuestudio"]||[]).push([[382],{7382:function(e,u,t){t.r(u),u["default"]=[{name:"default_menu",authority:["ADMIN","MANAGER","GUEST",""],parent:"-",depth:0}]}}]);
+//# sourceMappingURL=382.87c412e7.js.map
