@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuestudio"]=self["webpackChunkvuestudio"]||[]).push([[837],{2837:function(u,n,e){e.r(n),e.d(n,{default:function(){return a}});var t=e(3396);const r=(0,t._)("h2",null,"관리자 전용 페이지입니다.",-1),s=[r];function c(u,n,e,r,c,i){return(0,t.wg)(),(0,t.iD)("div",null,s)}var i={},l=e(89);const o=(0,l.Z)(i,[["render",c]]);var a=o}}]);
+//# sourceMappingURL=837.b6f75feb.js.map
